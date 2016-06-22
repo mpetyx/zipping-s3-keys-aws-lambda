@@ -68,7 +68,7 @@ def lambda_handler(event, context):
     """
     sample event
     {
-      "s3_files": "000041a2-1464798396.jpg,000041a2-cddf-4389-add2-cf2a8c3ce4ea-1464798402-preview.mp3,00005407-c573-da342aada-1453768852.mp3,0001300f-bfc6eb2e2873-1463992236.pdf",
+      "s3_files": "000041a2-14647sd9n34202j1032398396.jpg,0004240dsa041a2-cddf-4389-add2-cf2a8c3cda93432e4ea.mp3,00005407-dada92324nfs342aada-1453768852.mp3,0001383432fsad00f-bfc6eb2e2873-1463992236.pdf",
       "destination_folder": "my_new_folder",
     }
     """
